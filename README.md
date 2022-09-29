@@ -2,4 +2,4 @@
 
 Ateliers pour apprendre à créer un package R
 
-[Consulter le site](https://maeltheuliere.github.io/ateliers_rpackage/)
+[Consulter le site](https://mtes-mct.github.io/ateliers_rpackage/) 
